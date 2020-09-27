@@ -21,6 +21,11 @@
   align-items: center;
   padding: 0 20px;
 }
+
+a {
+  text-decoration: none;
+}
+
 .side-bar-main {
   background-color: #2f3e51;
   height: calc(100vh - 100px);
@@ -47,7 +52,6 @@
 }
 .chat-name a {
   color: white;
-  text-decoration: none;
 }
 .chat-top {
   background-color: #fff;
